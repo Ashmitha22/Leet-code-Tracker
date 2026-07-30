@@ -1,4 +1,4 @@
-// Last updated: 7/16/2026, 10:24:42 AM
+// Last updated: 7/30/2026, 4:26:39 PM
 1class Solution {
 2    public List<List<Integer>> permute(int[] nums) {
 3        List<List<Integer>> result = new ArrayList<>();
