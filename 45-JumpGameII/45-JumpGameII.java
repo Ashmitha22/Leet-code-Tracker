@@ -1,4 +1,4 @@
-// Last updated: 7/16/2026, 10:20:23 AM
+// Last updated: 7/30/2026, 4:19:37 PM
 1class Solution {
 2    public int jump(int[] nums) {
 3        int jumps = 0;
